@@ -38,10 +38,6 @@ features/steps/load_steps.py
 
 You will be given partial implementations in each of these files to get you started. Use those implementations as examples of the code you should write.
 
-## License
-
-Licensed under the Apache License. See [LICENSE](/LICENSE)
-
 ## Author
 
 John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
@@ -203,6 +199,10 @@ Update the `features/steps/web_steps.py` file with the remaining step definition
 
 Start by opening the file `web_steps.py`.
 
+## 🤝 Contributing
+
+Pull requests and feedback are welcome! If you'd like to contribute improvements, feel free to fork and submit a PR.
+
 ---
 
 ## About Me
@@ -214,9 +214,8 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 - 💞️ I’m always open to exciting collaborations and projects that challenge my abilities.
 - 📫 You can reach me at [info@ongunakay.com](mailto:info@ongunakay.com).
 
-* 🌐 Website: [ongunakay.com](https://ongunakay.com)
-* 💼 LinkedIn: [linkedin.com/in/ongunakay](https://linkedin.com/in/ongunakay)
-* 🧑‍💻 GitHub: [github.com/ongunakaycom](https://github.com/ongunakaycom)
-* 📬 Email: [info@ongunakay.com](mailto:info@ongunakay.com)
-
 ---
+
+## 📄 License
+
+This project is licensed under the [Apache-2.0 license](./LICENSE) — see the LICENSE file for details.
